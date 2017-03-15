@@ -16,9 +16,9 @@ https://github.com/codebrainz/geany-themes
 https://github.com/scopatz/nanorc
 http://rambox.pro/#download
 https://spideroak.com/personal/encryptr
+https://www.playonlinux.com/en/download.html
+https://sourceforge.net/p/doublecmd/wiki/Download/
 
 compizconfig
-
-play on linux
 
 r/unixporn
