@@ -2,12 +2,12 @@
 
 // sudo add-apt-repository ppa:numix/ppa
 
-alexxx2000/doublecmd/
-numix/ppa/
-ubuntu-mozilla-daily/firefox-aurora
-snwh/pulp/
-/webupd8team/atom/
-/libreoffice/ppa
+- alexxx2000/doublecmd/
+- numix/ppa/
+- ubuntu-mozilla-daily/firefox-aurora
+- snwh/pulp/
+- /webupd8team/atom/
+- /libreoffice/ppa
 ---
 https://drive.google.com/file/d/0B8JEWYB_gGYPYWpBeUxoZ1BDRlk/view?usp=sharing
 
