@@ -1,3 +1,7 @@
+TO ADD: 
+http://lnav.org/downloads/
+mozjpeg
+
 ### Notes & Links (n stuff)
 
 // sudo add-apt-repository ppa:numix/ppa
