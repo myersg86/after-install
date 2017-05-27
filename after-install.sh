@@ -7,6 +7,8 @@ snwh/pulp/
 /webupd8team/atom/
 /libreoffice/ppa
 
+https://github.com/amix/vimrc
+
 https://atom.io/download/deb
 https://www.google.com/chrome/browser/desktop/index.html#
 http://rambox.pro/#download
