@@ -1,0 +1,6 @@
+sudo apt install -y software-properties-common python-software-properties &&
+sudo apt install -y autoconf autogen automake bash-completion build-essential curl  git linux-tools-common linux-tools-generic net-tools php python python-dev python-gpgme python-pip golang-go nano zip unzip tar vim vim-scripts vim-syntastic ruby-full wget &&
+curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash - &&
+sudo apt update -y &&
+sudo apt dist-upgrade -y &&
+sudo apt-get install -y nodejs

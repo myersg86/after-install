@@ -1,1 +1,0 @@
-sudo apt install software-properties-common python-software-properties autoconf autogen automake bash-completion build-essential curl wget git linux-tools-common linux-tools-generic net-tools zip unzip tar vim
