@@ -9,6 +9,8 @@ snwh/pulp/
 
 https://github.com/amix/vimrc
 
+https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+
 https://atom.io/download/deb
 https://www.google.com/chrome/browser/desktop/index.html#
 http://rambox.pro/#download
