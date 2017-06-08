@@ -22,4 +22,4 @@ wget https://raw.githubusercontent.com/myersg86/dotfiles/master/.bashrc &&
 mv .vimrc vimrc_original &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/.vimrc &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/git-completion.bash &&
-wget https://github.com/myersg86/dotfiles/blob/master/git-prompt.sh
+wget https://raw.githubusercontent.com/myersg86/dotfiles/master/git-prompt.sh
