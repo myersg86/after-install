@@ -7,6 +7,8 @@ sudo add-apt-repository -y ppa:libreoffice/ppa  &&
 sudo add-apt-repository -y ppa:ubuntu-mozilla-daily/firefox-aurora &&
 sudo apt update &&
 sudo apt install arc-theme atom autoconf autogen automake bash-completion build-essential checkinstall cvs curl faac faad ffmpeg2theora filezilla flac font-manager ffmpeg gdebi geany geany-plugin* golang-go gimp git git-core gparted gzip htop icedax id3v2 inkscape lame liba52-dev libdvdcss2 libdvdnav4 libdvdread4 libjpeg-progs libmad0 libmpeg2-4 libreoffice linux-tools-common linux-tools-generic mencoder meld mercurial mpeg2dec mpeg3-utils mpegdemux mpg123 mpg321 mpv nano net-tools nmap numix-* openjdk-8-jre-headless openssh-client openssh-server openssh-sftp-server subversion php python python-dev python-gpgme python-pip p7zip p7zip-full p7zip-rar pinta poppler-utils rar unrar redshift sox sublime-text-installer synaptic tar tmux ttf-ubuntu-font-family ubuntu-restricted-* uget unzip uudeview vim vim-scripts vim-syntastic vlc vorbis-tools ruby-full wget youtube-dl zip &&
+sudo pip install --upgrade pip
+sudo pip install cheat &&
 curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash - &&
 sudo apt update -y &&
 sudo apt dist-upgrade -y &&
