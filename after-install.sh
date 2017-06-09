@@ -1,3 +1,6 @@
+
+http://dbeaver.jkiss.org/download/
+
 sudo add-apt-repository ppa:numix/ppa
 
 alexxx2000/doublecmd/
@@ -6,7 +9,6 @@ ubuntu-mozilla-daily/firefox-aurora
 snwh/pulp/
 /webupd8team/atom/
 /libreoffice/ppa
-
 https://github.com/amix/vimrc
 
 https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
