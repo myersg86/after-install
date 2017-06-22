@@ -24,6 +24,7 @@ https://github.com/evilsocket/opensnitch
 https://github.com/arcticicestudio/nord-dircolors
 https://github.com/flazz/vim-colorschemes
 https://github.com/mrzool/bash-sensible
+https://github.com/spymastermatt/thunderbird-monterail
 
 sudo apt install fonts-hack* meld nano curl wget git vlc mpv vim ubuntu-restricted-extras htop powertop numix* geany* gdebi synaptic gparted kodi gimp gimp-data gimp-plugin-registry gimp-data-extras bleachbit  flashplugin-installer unace unrar zip unzip p7zip-full p7zip-rar sharutils rar uudeview mpack arj cabextract file-roller mencoder flac faac faad sox ffmpeg2theora libmpeg2-4 uudeview  mpeg3-utils mpegdemux liba52-dev mpeg2dec vorbis-tools id3v2 mpg321 mpg123 icedax lame libmad0 libjpeg-progs libdvdcss2 libdvdread4 libdvdnav4  ubuntu-wallpapers* pinta font-manager filezilla uget nmap tlp tlp-rdw fish xtightvncviewer libreoffice-style-* ubuntu-restricted-* xserver-xorg-input-all ttf-mscorefonts-installer thunderbird synaptic openssh-server openssh-client openjdk-8-jre-headless linux-tools-common linux-tools-generic ubuntu-mate-welcome compiz-plugins
 
