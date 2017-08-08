@@ -1,3 +1,5 @@
+#!/bin/bash
+set -ex
 sudo apt install software-properties-common python-software-properties &&
 sudo add-apt-repository ppa:numix/ppa -y && 
 sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y &&
