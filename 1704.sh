@@ -19,9 +19,9 @@ git clone https://github.com/flazz/vim-colorschemes.git ~/.vim &&
 git clone git://github.com/amix/vimrc.git ~/.vim_runtime &&
 sh ~/.vim_runtime/install_basic_vimrc.sh &&
 cd ~/ &&
-mv .bashrc bashrc_original &&
+mv .bashrc -rf bashrc_original &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/.bashrc &&
-mv .vimrc vimrc_original &&
+mv .vimrc -rf vimrc_original &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/.vimrc &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/git-completion.bash &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/git-prompt.sh
