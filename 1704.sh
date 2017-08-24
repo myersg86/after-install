@@ -25,6 +25,7 @@ mkdir ~/.vim &&
 git clone https://github.com/flazz/vim-colorschemes.git ~/.vim &&
 git clone git://github.com/amix/vimrc.git ~/.vim_runtime &&
 bash ~/.vim_runtime/install_basic_vimrc.sh &&
+mv .vimrc dotfiles_old/. &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/.bashrc &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/.vimrc &&
 wget https://raw.githubusercontent.com/myersg86/dotfiles/master/git-completion.bash &&
