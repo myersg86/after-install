@@ -1,5 +1,5 @@
 
-http://dbeaver.jkiss.org/download/
+https://www.screamingfrog.co.uk/
 
 sudo add-apt-repository ppa:numix/ppa
 
