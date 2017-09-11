@@ -4,8 +4,6 @@ sudo apt install -y software-properties-common python-software-properties &&
 # sudo add-apt-repository -y ppa:ubuntu-mozilla-security/ppa 
 #SUBLIME TEXT
 # sudo add-apt-repository -y ppa:webupd8team/sublime-text-3  &&
-#FIREFOX DEVELOPER
-# sudo add-apt-repository ppa:ubuntu-mozilla-daily/firefox-aurora
 #ATOM EDITOR
 # sudo add-apt-repository -y ppa:webupd8team/atom &&
 #VSCODE
@@ -19,7 +17,7 @@ sudo apt install -y software-properties-common python-software-properties &&
 #TERMINIX/TILIX
 # sudo add-apt-repository ppa:webupd8team/terminix &&
 #KDECONNECT
-# sudo add-apt-repository ppa:webupd8team/indicator-kdeconnect&&
+# sudo add-apt-repository ppa:webupd8team/indicator-kdeconnect &&
 #FOR MATE/XFCE
 # sudo add-apt-repository -y ppa:webupd8team/mate &&
 #GOOGLE-CHROME
