@@ -15,8 +15,6 @@ sudo apt-get update &&
 sudo apt-get install sublime-text
 ```
 
-#### YARN
-
 ### 3rd party PPAs - 
 
 ```
