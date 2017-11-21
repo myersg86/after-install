@@ -11,7 +11,7 @@ sudo add-apt-repository -y ppa:snwh/pulp
 adduser apt-transport-https tlp tlp-rdw software-properties-common python-software-properties wget curl vim git bash-completion build-essential
 sudo tlp start
 
-albert claws-mail-themes colorized-logs colordiff coreutils cowsay debianutils diffutils tree display-dhammapada distro-info-data dnsutils claws-mail-tnef-parser claws-mail-tools claws-mail-multi-notifier claws-mail-fancy-plugin claws-mail-newmail-plugin claws-mail-pdf-viewer claws-mail-perl-filter bash-builtins bzip2 apt-utils app-install-data audacious arc-theme calibre claws-mail claws-mail-archiver-plugin claws-mail-address-keeper checkinstall claws-mail-gdata-plugin claws-mail-attach-warner claws-mail-doc claws-mail-i18n dos2unix filezilla flac font-manager ffmpeg gdebi gnome-tweak-tool geany geany-plugin* golang-go gimp git-core claws-mail-gdata-plugin claws-mail-fetchinfo-plugin gparted gzip claws-mail-fancy-plugin html2text htop ntop inkscape lame libdvdcss2 libdvdnav4 libdvdread4 libjpeg-progs libmad0 libmpeg2-4 libreoffice linux-tools-common linux-tools-generic lynx markdown mencoder numix-gtk-theme meld mpeg3-utils mpegdemux mpg123 mpg321 mpv nano net-tools nmap oracle-java9-installer openjdk-8-jre-headless openssh-client openssh-server openssh-sftp-server subversion php python3 powertop ppa-purge preload  pdf=parser patchutils mono-runtime menu manpages markdown python python-dev python-gpgme python-pip p7zip inta poppler-utils unrar redshift sox shellcheck synaptic tar tmux tilix ttf-ubuntu-font-family ubuntu-make ubuntu-restricted-extras uget unzip uudeview vim vlc ruby-full wget intel-gpu-tools imagemagick iputils-ping iputils-tracepath youtube-dl zip evince fail2ban fakeroot fastboot xdiagnose ttf-anonymous-pro ttf-ubuntu-font-family sqlmap snapd smartmonutils 
+albert claws-mail-themes colorized-logs colordiff coreutils cowsay debianutils diffutils tree display-dhammapada distro-info-data dnsutils claws-mail-tnef-parser claws-mail-tools claws-mail-multi-notifier claws-mail-fancy-plugin claws-mail-newmail-plugin claws-mail-pdf-viewer claws-mail-perl-filter bash-builtins bzip2 apt-utils app-install-data audacious arc-theme calibre claws-mail claws-mail-archiver-plugin claws-mail-address-keeper checkinstall claws-mail-gdata-plugin claws-mail-attach-warner claws-mail-doc claws-mail-i18n dos2unix filezilla flac font-manager ffmpeg gdebi gnome-tweak-tool geany geany-plugin* golang-go gimp git-core claws-mail-gdata-plugin claws-mail-fetchinfo-plugin gparted gzip claws-mail-fancy-plugin html2text htop ntop inkscape lame libdvdcss2 libdvdnav4 libdvdread4 libjpeg-progs libmad0 libmpeg2-4 libreoffice linux-tools-common linux-tools-generic lynx markdown mencoder numix-gtk-theme meld mpeg3-utils mpegdemux mpg123 mpg321 mpv nano net-tools nmap oracle-java9-installer openjdk-8-jre-headless openssh-client openssh-server openssh-sftp-server subversion php python3 powertop ppa-purge preload  pdf=parser patchutils mono-runtime menu manpages markdown python python-dev python-gpgme python-pip p7zip inta poppler-utils unrar redshift sox shellcheck synaptic tar tmux tilix ttf-ubuntu-font-family ubuntu-make ubuntu-restricted-extras uget unzip uudeview vim vlc ruby-full wget intel-gpu-tools imagemagick iputils-ping iputils-tracepath youtube-dl zip evince fail2ban fakeroot fastboot xdiagnose ttf-anonymous-pro ttf-ubuntu-font-family sqlmap snapd smartmonutils
 
 curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
 
@@ -69,13 +69,13 @@ sudo apt-get install --install-recommends winehq-stable
 
 # sudo apt-get install ttf-mscorefonts-installer
 
-#macosx fonts 
+#macosx fonts
 wget http://dl.dropbox.com/u/26209128/mac_fonts.tar.gz
 tar zxvf mac_fonts.tar.gz
 sudo mv fonts /usr/share/fonts/
 
 #Install all google fonts - http://idroot.net/linux/install-google-fonts-ubuntu-16-04/
-cd ~/.fonts && wget https://github.com/google/fonts/archive/master.zip && unzip master.zip && 	
+cd ~/.fonts && wget https://github.com/google/fonts/archive/master.zip && unzip master.zip &&
 fc-cache -fv
 
 lynis
