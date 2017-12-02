@@ -15,7 +15,7 @@ sudo apt-get update &&
 sudo apt-get install sublime-text
 ```
 
-### 3rd party PPAs - 
+### 3rd party PPAs -
 
 ```
 sudo add-apt-repository ppa:team-xbmc/ppa
@@ -49,17 +49,17 @@ sudo add-apt-repository ppa:git-core/ppa
 ## Other Software:
 
 ##### https://yarnpkg.com/lang/en/docs/install/#linux-tab
-##### https://github.com/saenzramiro/rambox/releases 
-##### https://www.privateinternetaccess.com/pages/downloads 
-##### https://github.com/oguzhaninan/Stacer/releases 
-##### https://www.screamingfrog.co.uk/ 
-##### http://lnav.org/downloads 
-##### https://github.com/evilsocket/opensnitch 
-##### https://github.com/arcticicestudio/nord-dircolors 
-##### https://github.com/flazz/vim-colorschemes 
-##### https://github.com/mrzool/bash-sensible 
-##### https://github.com/spymastermatt/thunderbird-monterail 
-##### https://github.com/codebrainz/geany-themes 
+##### https://github.com/saenzramiro/rambox/releases
+##### https://www.privateinternetaccess.com/pages/downloads
+##### https://github.com/oguzhaninan/Stacer/releases
+##### https://www.screamingfrog.co.uk/
+##### http://lnav.org/downloads
+##### https://github.com/evilsocket/opensnitch
+##### https://github.com/arcticicestudio/nord-dircolors
+##### https://github.com/flazz/vim-colorschemes
+##### https://github.com/mrzool/bash-sensible
+##### https://github.com/spymastermatt/thunderbird-monterail
+##### https://github.com/codebrainz/geany-themes
 ##### https://www.playonlinux.com/en/download.html
 
 https://drive.google.com/file/d/0B8JEWYB_gGYPYWpBeUxoZ1BDRlk/view?usp=sharing
