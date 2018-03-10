@@ -32,6 +32,11 @@ sudo apt install software-properties-common python-software-properties &&
 # sudo apt install tlp tlp-rdw &&
 # sudo tlp start
 
+# sublimetext
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update
+sudo apt-get install sublime-text
+
 curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
 
 sudo apt update &&
@@ -43,3 +48,9 @@ sudo apt-get install -y nodejs &&
 sudo apt dist-upgrade -y &&
 sudo apt autoclean -y &&
 sudo apt autoremove -y
+
+# katoolin
+# sudo su
+# git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
+# chmod +x /usr/bin/katoolin
+# sudo katoolin
