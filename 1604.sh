@@ -1,7 +1,8 @@
 #!/bin/bash
 set -ex
-# 3rd party (optional) ppas
 sudo apt install software-properties-common python-software-properties &&
+
+# 3rd party (optional) ppas
 # sudo add-apt-repository ppa:numix/ppa -y &&
 # sudo add-apt-repository ppa:webupd8team/sublime-text-3 -y &&
 # sudo add-apt-repository ppa:webupd8team/atom -y &&
