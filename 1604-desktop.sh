@@ -50,7 +50,9 @@ sudo apt autoclean -y &&
 sudo apt autoremove -y
 
 # katoolin
+
 # sudo su
-# git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
-# chmod +x /usr/bin/katoolin
+
+# git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin &&
+# chmod +x /usr/bin/katoolin &&
 # sudo katoolin
