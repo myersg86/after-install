@@ -27,6 +27,12 @@ sudo apt install software-properties-common python-software-properties &&
 # Visual Studio Code
 # curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg && sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg && sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main" > /etc/apt/sources.list.d/vscode.list'
 
+# tlp
+# sudo apt install tlp tlp-rdw &&
+# sudo tlp start
+
+curl https://raw.githubusercontent.com/scopatz/nanorc/master/install.sh | sh
+
 sudo apt update &&
 sudo apt upgrade -y &&
 sudo apt install adduser apt-transport-https apt-utils autoconf automake bash-builtins bash-completion build-essential bzip2 checkinstall colordiff coreutils curl diffutils display-dhammapada dnsutils dos2unix fail2ban fakeroot ffmpeg filezilla flac gdebi geany geany-plugin* gimp git gparted gzip html2text htop imagemagick inkscape libmpeg2-4 libreoffice linux-tools-common linux-tools-generic manpages markdown meld mencoder mpeg3-utils mpegdemux mpg123 mpg321 mpv nano net-tools nmap openjdk-8-jre-headless openssh-client openssh-server p7zip p7zip-full p7zip-rar patchutils pinta poppler-utils ppa-purge python-software-properties redshift software-properties-common sublime-text-installer synaptic tar tmux tree ttf-ubuntu-font-family ubuntu-restricted-extras uget unrar unzip uudeview vim vlc vorbis-tools wget youtube-dl zip &&
