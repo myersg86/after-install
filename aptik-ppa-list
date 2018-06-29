@@ -1,0 +1,18 @@
+lp:alexlarsson/flatpak                   -- ostree flatpak libgsystem0 libflatpak0 ostree-grub2
+lp:ansible/ansible                       -- ansible
+lp:cybre/elementaryplus                  -- sni-qt elementaryplus
+lp:elementary-os/os-patches              -- lsb ldc dub bash dkms fcitx grub2 valac qdbus meson
+lp:elementary-os/stable                  -- gala nimf plank noise cerbere pantheon audience gala-dbg
+lp:flexiondotorg/albert                  -- albert
+lp:git-core/ppa                          -- git gitk gitweb git-el git-cvs git-doc git-svn git-gui
+lp:gnome-terminator/ppa                  -- terminator
+lp:graphics-drivers/ppa                  -- libvdpau1 bumblebee nvidia-304 nvidia-331 nvidia-340
+lp:linrunner/tlp                         -- tlp tlp-rdw tp-smapi-dkms
+lp:mozillateam/firefox-next              -- firefox firefox-dev firefox-dbg firefox-locale-af firefox-locale-ar
+lp:nixnote/nixnote2-daily                -- nixnote2
+lp:oibaf/graphics-drivers                -- libva1 vainfo libxcb1 libdrm2 libgbm1 lld-6.0 lldb-6.0
+lp:openjdk-r/ppa                         -- openjdk-7-jdk openjdk-7-jre openjdk-7-dbg openjdk-7-doc
+lp:philip.scott/elementary-tweaks        -- elementary-tweaks elementary-tweaks-dbg
+lp:teejee2008/ppa                        -- ukuu aptik selene compared timeshift aptik-gtk conky-manager
+lp:ubuntu-x-swat/updates                 -- libdrm2 libgbm1 libdrm-dev libosmesa6 libgbm-dev libegl1-mesa
+lp:ultradvorka/ppa                       -- hh
