@@ -19,10 +19,14 @@ sudo add-apt-repository ppa:philip.scott/elementary-tweaks
 # nixnote2 ppa
 sudo add-apt-repository ppa:nixnote/nixnote2-daily
 
+#qownnotes
+sudo add-apt-repository ppa:pbek/qownnotes
+
+
 # timeshift & aptik
 # sudo apt-add-repository -y ppa:teejee2008/ppa
 
-# sudo add-apt-repository ppa:elementary-os/stable 
+# sudo add-apt-repository ppa:elementary-os/stable
 # sudo add-apt-repository ppa:elementary-os/os-patches
 # sudo add-apt-repository ppa:elementary-os/daily
 # sudo apt-get update
