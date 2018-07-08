@@ -49,7 +49,7 @@ sudo apt install tlp tlp-rdw &&
 sudo tlp start
 
 sudo snap install tusk --classic
-sudo snap install slack
+sudo snap install slack --classic
 
 # dropbox 
 git clone https://github.com/zant95/elementary-dropbox /tmp/elementary-dropbox
